@@ -1,5 +1,5 @@
 import Heading from "@/components/ui/heading";
-import { Separator } from "@/components/ui/separator";
+//import { Separator } from "@/components/ui/separator";
 
 // const messages = [
 //   `manishincNotes is a cloud based Notes app build to store user's notes anytime, anywhere on the cloud with easy access to their notes.`,
