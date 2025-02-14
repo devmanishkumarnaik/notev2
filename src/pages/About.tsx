@@ -23,7 +23,7 @@ import { Separator } from "@/components/ui/separator";
 const About = () => {
   return (
     <div className="container py-10">
-      <Heading title="manishincNotes" description="Your Notes Secured on the Cloud" className="text-center" />
+      <Heading title="Notes" description="Your Data Secured on the Cloud" className="text-center" />
       <Separator className="mt-5 mb-8" />
       <ul className="flex flex-col max-w-4xl gap-3 mx-auto list-[square]">
         {messages.map((message, i) => (
