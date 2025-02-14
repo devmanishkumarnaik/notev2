@@ -17,7 +17,6 @@ import { Separator } from "@/components/ui/separator";
 //   `The user can create read update and delete notes on the app.`,
 //   `The app uses function based react components.`,
 //   `It is completely Device Responsive and accessibilty optimized`,
-
 // ]
 
 const About = () => {
