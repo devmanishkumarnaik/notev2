@@ -1,22 +1,22 @@
 import Heading from "@/components/ui/heading";
 import { Separator } from "@/components/ui/separator";
 
-// const messages = [
-//   `manishincNotes is a cloud based Notes app build to store user's notes anytime, anywhere on the cloud with easy access to their notes.`,
-//   `The App is build using the popular technologies like React JS MongoDB, Express Js and NodeJS.`,
-//   `Tailwind is Used as the CSS Framework for styling the App.`,
-//   `The App is completely Secured by manishinc with hashing form.`,
-//   `For more details more Apps, Projects and Web Apps - Go to https://manishinc.wordpress.com`,
-// ]
+const messages = [
+  `manishincNotes is a cloud based Notes app build to store user's notes anytime, anywhere on the cloud with easy access to their notes.`,
+  `The App is build using the popular technologies like React JS MongoDB, Express Js and NodeJS.`,
+  `Tailwind is Used as the CSS Framework for styling the App.`,
+  `The App is completely Secured by manishinc with hashing form.`,
+  `For more details more Apps, Projects and Web Apps - Go to https://manishinc.wordpress.com`,
+]
 
-// const features = [
-//   `The app uses Express Api to fetch all the data.`,
-//   ` MongoDb is used as the database to save and fetch all the
-//   data.`,
-//   `The user can create read update and delete notes on the app.`,
-//   `The app uses function based react components.`,
-//   `It is completely Device Responsive and accessibilty optimized`,
-// ]
+const features = [
+  `The app uses Express Api to fetch all the data.`,
+  ` MongoDb is used as the database to save and fetch all the
+  data.`,
+  `The user can create read update and delete notes on the app.`,
+  `The app uses function based react components.`,
+  `It is completely Device Responsive and accessibilty optimized`,
+]
 
 const About = () => {
   return (
